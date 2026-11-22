@@ -7,9 +7,8 @@
 🌱 Currently learning and exploring Embedded Systems and Electronics.
 
 ### 🛠️ Technical Skills
-- C Programming
+- C Programming(Basics)
 - Embedded C
-- Verilog HDL
 - MATLAB
 - 8051 Microcontroller
 - PIC Microcontroller
@@ -20,11 +19,16 @@
 - Stacker Game using PIC Microcontroller
 - LDR Based Automatic Light Control
 
+### 🌱 Currently Learning
+- Embedded C
+- PIC Microcontrollers
+- Verilog HDL
+
 ### 🎯 Areas of Interest
 - Embedded Systems
 - Internet of Things (IoT)
 - Digital Electronics
-- VLSI Design
+- Microcontrollers
 
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ayanaanilkumar260010/
