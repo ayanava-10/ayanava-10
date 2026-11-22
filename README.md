@@ -1,39 +1,39 @@
-# Hi, I'm Anu! 👋
+# Hi, I'm Ayana! 👋
 
-🎓 Electronics and Communication Engineering Student
+ Electronics and Communication Engineering Student
 
-💻 Interested in Embedded Systems, Microcontrollers and IoT.
+ Interested in Embedded Systems, Microcontrollers and IoT.
 
-🌱 Currently learning and exploring Embedded Systems and Electronics.
+ Currently learning and exploring Embedded Systems and Electronics.
 
-### 🛠️ Technical Skills
+###  Technical Skills
 - C Programming(Basics)
 - Embedded C
 - MATLAB
 - 8051 Microcontroller
 - PIC Microcontroller
 
-### 🚀 Projects
+###  Projects
 - Driver Drowsiness Detection System
 - 555 Timer Based Function Generator
 - Stacker Game using PIC Microcontroller
 - LDR Based Automatic Light Control
 
-### 🌱 Currently Learning
+### Currently Learning
 - Embedded C
 - PIC Microcontrollers
 - Verilog HDL
 
-### 🎯 Areas of Interest
+###  Areas of Interest
 - Embedded Systems
 - Internet of Things (IoT)
 - Digital Electronics
 - Microcontrollers
 
-### 📫 Connect With Me
+###  Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ayanaanilkumar260010/
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayanava-10&show_icons=true&theme=tokyonight)
 
