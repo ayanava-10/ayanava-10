@@ -28,3 +28,9 @@
 
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ayanaanilkumar260010/
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayanava-10&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanava-10&layout=compact&theme=tokyonight)
